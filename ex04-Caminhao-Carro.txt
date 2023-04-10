@@ -1,0 +1,8 @@
+Considerar a distancia entre Ribeirao Preto e Franca  de 100km.
+Considerar 2 pedágios como obstaculos e que o caminhao leva 5 min a mais para passar em cada um e o carro possui sem parar.
+
+carro -- velocidade de 110km/h
+caminhao -- velocidade de 80km/h
+
+Quando se cruzarem na rodovia, qual estará mais proximo de Ribeirao Preto?
+R: Os dois estarão proximos, pois ao cruzarem eles vao se encontrar e manter a mesma distancia ate Ribeirao Preto, independente se o carro estiver chegando e o caminhao saindo ou vice-versa.
